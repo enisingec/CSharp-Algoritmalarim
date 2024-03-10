@@ -1,4 +1,4 @@
-﻿namespace DizininElemanlariniToplamak
+﻿namespace Dizi_Algoritma_3
 {
     internal class Program
     {

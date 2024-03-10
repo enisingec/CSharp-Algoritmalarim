@@ -10,6 +10,7 @@
                     Bir dizideki tüm çift sayıları bir listeye, tek sayıları ise başka bir listeye kopyalayan bir C# programı yazın.
 
                     İpuçları:
+                    Dizideki sayilari uretmek icin Random sinifini kullanin.
                     Dizideki her sayıyı kontrol etmek için bir döngü kullanın.
                     Sayının çift olup olmadığını kontrol etmek için % operatörünü kullanın.
                     Çift sayıları bir List<int>'e, tek sayıları ise başka bir List<int>'e ekleyin.

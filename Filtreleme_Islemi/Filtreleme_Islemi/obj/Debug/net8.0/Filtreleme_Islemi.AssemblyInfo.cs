@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Filtreleme_Islemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3531da6a6f1123719920622567614bf706990b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Filtreleme_Islemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Filtreleme_Islemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

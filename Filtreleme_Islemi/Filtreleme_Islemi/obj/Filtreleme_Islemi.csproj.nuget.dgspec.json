@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enis_\\RiderProjects\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj": {}
+    "C:\\Users\\enis_\\source\\repos\\CSharp-Algoritmalarim\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enis_\\RiderProjects\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj": {
+    "C:\\Users\\enis_\\source\\repos\\CSharp-Algoritmalarim\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enis_\\RiderProjects\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj",
+        "projectUniqueName": "C:\\Users\\enis_\\source\\repos\\CSharp-Algoritmalarim\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj",
         "projectName": "Filtreleme_Islemi",
-        "projectPath": "C:\\Users\\enis_\\RiderProjects\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj",
+        "projectPath": "C:\\Users\\enis_\\source\\repos\\CSharp-Algoritmalarim\\Filtreleme_Islemi\\Filtreleme_Islemi\\Filtreleme_Islemi.csproj",
         "packagesPath": "C:\\Users\\enis_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enis_\\RiderProjects\\Filtreleme_Islemi\\Filtreleme_Islemi\\obj\\",
+        "outputPath": "C:\\Users\\enis_\\source\\repos\\CSharp-Algoritmalarim\\Filtreleme_Islemi\\Filtreleme_Islemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enis_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

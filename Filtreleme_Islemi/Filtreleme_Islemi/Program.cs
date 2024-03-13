@@ -32,15 +32,12 @@ class Program
         File.WriteAllText("Filter.txt", "");                // ilk once dosya icerigi dolu ise temizler.
         using (StreamWriter writer = new StreamWriter("Filter.txt", true))                        // Filter.txt dosyanin konumu Project\bin\Debug\net8.0
         {
-            string result = null;
             for (int i = 0; i < raw.Count; i++)
             {
-                result = "";
                 foreach (var character in raw[i])
                 {
                     if (!Char.IsDigit(character) && Char.IsLetter(character))               // Filtreleme islemi
                     {
-                        result += character;
                         writer.Write(character);
                     }
                 }

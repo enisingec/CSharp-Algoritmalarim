@@ -1,0 +1,14 @@
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\bin\Debug\net8.0\Filtreleme_Islemi.exe
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\bin\Debug\net8.0\Filtreleme_Islemi.deps.json
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\bin\Debug\net8.0\Filtreleme_Islemi.runtimeconfig.json
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\bin\Debug\net8.0\Filtreleme_Islemi.dll
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\bin\Debug\net8.0\Filtreleme_Islemi.pdb
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.AssemblyInfoInputs.cache
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.AssemblyInfo.cs
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.csproj.CoreCompileInputs.cache
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.dll
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\refint\Filtreleme_Islemi.dll
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.pdb
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\Filtreleme_Islemi.genruntimeconfig.cache
+C:\Users\enis_\RiderProjects\Filtreleme_Islemi\Filtreleme_Islemi\obj\Debug\net8.0\ref\Filtreleme_Islemi.dll

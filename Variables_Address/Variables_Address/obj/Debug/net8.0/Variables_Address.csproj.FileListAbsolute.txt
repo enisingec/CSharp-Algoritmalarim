@@ -1,0 +1,14 @@
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\bin\Debug\net8.0\Variables_Address.exe
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\bin\Debug\net8.0\Variables_Address.deps.json
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\bin\Debug\net8.0\Variables_Address.runtimeconfig.json
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\bin\Debug\net8.0\Variables_Address.dll
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\bin\Debug\net8.0\Variables_Address.pdb
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.AssemblyInfoInputs.cache
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.AssemblyInfo.cs
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.csproj.CoreCompileInputs.cache
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.dll
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\refint\Variables_Address.dll
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.pdb
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\Variables_Address.genruntimeconfig.cache
+C:\Users\enis_\source\repos\Variables_Address\Variables_Address\obj\Debug\net8.0\ref\Variables_Address.dll
